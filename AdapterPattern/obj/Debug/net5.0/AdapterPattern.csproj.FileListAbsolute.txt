@@ -1,0 +1,16 @@
+C:\Source\FallRepos\DesignPatternPractice\AdapterPattern\obj\Debug\net5.0\AdapterPattern.csproj.AssemblyReference.cache
+C:\Source\FallRepos\DesignPatternPractice\AdapterPattern\obj\Debug\net5.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\FallRepos\DesignPatternPractice\AdapterPattern\obj\Debug\net5.0\AdapterPattern.AssemblyInfoInputs.cache
+C:\Source\FallRepos\DesignPatternPractice\AdapterPattern\obj\Debug\net5.0\AdapterPattern.AssemblyInfo.cs
+C:\Source\FallRepos\DesignPatternPractice\AdapterPattern\obj\Debug\net5.0\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Source\FallRepos\DesignPatternPractice\AdapterPattern\bin\Debug\net5.0\AdapterPattern.exe
+C:\Source\FallRepos\DesignPatternPractice\AdapterPattern\bin\Debug\net5.0\AdapterPattern.deps.json
+C:\Source\FallRepos\DesignPatternPractice\AdapterPattern\bin\Debug\net5.0\AdapterPattern.runtimeconfig.json
+C:\Source\FallRepos\DesignPatternPractice\AdapterPattern\bin\Debug\net5.0\AdapterPattern.runtimeconfig.dev.json
+C:\Source\FallRepos\DesignPatternPractice\AdapterPattern\bin\Debug\net5.0\AdapterPattern.dll
+C:\Source\FallRepos\DesignPatternPractice\AdapterPattern\bin\Debug\net5.0\ref\AdapterPattern.dll
+C:\Source\FallRepos\DesignPatternPractice\AdapterPattern\bin\Debug\net5.0\AdapterPattern.pdb
+C:\Source\FallRepos\DesignPatternPractice\AdapterPattern\obj\Debug\net5.0\AdapterPattern.dll
+C:\Source\FallRepos\DesignPatternPractice\AdapterPattern\obj\Debug\net5.0\ref\AdapterPattern.dll
+C:\Source\FallRepos\DesignPatternPractice\AdapterPattern\obj\Debug\net5.0\AdapterPattern.pdb
+C:\Source\FallRepos\DesignPatternPractice\AdapterPattern\obj\Debug\net5.0\AdapterPattern.genruntimeconfig.cache
